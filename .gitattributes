@@ -1,0 +1,10 @@
+*.dart linguist-language=Dart
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+build/** linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.o linguist-vendored
+*.so linguist-vendored
+*.a linguist-vendored
+*.dll linguist-vendored
